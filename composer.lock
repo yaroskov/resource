@@ -1,0 +1,56 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "33f26e30601a8ac54a4075618d0c2ce8",
+    "packages": [
+        {
+            "name": "yaroskov/data",
+            "version": "v1.0.0-stable",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/yaroskov/data.git",
+                "reference": "0f7510a413b4c7c93567e8660219f8f8ba879183"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/yaroskov/data/zipball/0f7510a413b4c7c93567e8660219f8f8ba879183",
+                "reference": "0f7510a413b4c7c93567e8660219f8f8ba879183",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=7.2"
+            },
+            "require-dev": {
+                "php": ">=7.2"
+            },
+            "type": "library",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-3.0-only"
+            ],
+            "authors": [
+                {
+                    "name": "Yaroslav Kovalev",
+                    "email": "yaroskov@yandex.ru"
+                }
+            ],
+            "description": "This is a data handler package",
+            "time": "2019-01-17T15:12:18+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": {
+        "php": ">=7.2"
+    },
+    "platform-dev": {
+        "php": ">=7.2"
+    }
+}
