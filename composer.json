@@ -18,7 +18,7 @@
         "yaroskov/data": ">=1.0.0-stable"
     },
     "autoload": {
-        "psr-0": {
+        "psr-4": {
             "Yaroskov\\Resource\\": "src/",
             "Yaroskov\\Resource\\Components\\": "src/Components/"
         }
